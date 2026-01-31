@@ -104,6 +104,4 @@ Prompt Engineer | No-code & AI enthusiast
 - Telegram: [@ai_samuray](https://t.me/ai_samuray)
 - GitHub: [@Dan-The-Creator](https://github.com/Dan-The-Creator)
 
----
 
-*Проект выполнен в рамках курса "Промпт-инжиниринг 2.0" на платформе [Zerocoder](https://zerocoder.ru)*
